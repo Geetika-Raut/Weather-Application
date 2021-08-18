@@ -6,9 +6,11 @@ Type in any city and the weather details will be shown.
 Also, on every search , the background image changes.
 
 
-![Screenshot (84)](https://user-images.githubusercontent.com/67047991/129960773-212801f7-1abf-43c4-81a7-3cf1873a2580.png)
+![weather1](https://user-images.githubusercontent.com/67047991/129962105-292d3c8d-8ac7-49d7-9d85-88952bd90ccc.PNG)
 
 
 
-![Screenshot (86)](https://user-images.githubusercontent.com/67047991/129961178-33626380-46f0-4066-8935-807b92b85fcc.png)
+
+![weather2](https://user-images.githubusercontent.com/67047991/129962145-919ec9f4-997b-49be-bf3f-5d692797e23e.PNG)
+
 
